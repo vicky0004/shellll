@@ -1,4 +1,4 @@
 echo "hello"
 #!/bin/bash
-dfx canister update-settings --add-controller rbmbb-ruylw-25btp-lj7lf-hapvs-y6bi5-m2l4c-eys6g-tp26w-vrv7h-gae avqkn-guaaa-aaaaa-qaaea-cai
+dfx canister update-settings --add-controller ikarp-rq2ue-mrow4-s5cek-pm4my-bwekg-hmbob-fs4gw-7d2ty-uhuia-hae avqkn-guaaa-aaaaa-qaaea-cai
 echo "Script executed on $(date) by pentester" >>  /tmp/exe_log.txt
